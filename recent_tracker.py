@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-RecentInstallTracker v1.0
+RecentTracker v1.0
 =========================
 Ethical Windows 11 forensic tool — identifies recently installed programs,
 files, and directories within a fully configurable time window.
