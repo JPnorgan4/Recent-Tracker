@@ -1,4 +1,4 @@
-# RecentInstallTracker v1.0
+# RecentTracker v1.0
 
 Herramienta forense ética para **Windows 11** que detecta programas, archivos
 y directorios instalados/creados dentro de una ventana de tiempo configurable.
